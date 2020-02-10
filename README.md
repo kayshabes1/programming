@@ -1,12 +1,10 @@
-# {Programmin-Portfolio}
+# {Programming-Portfolio}
 #### {This is my programming portfolio}, {09/02/2020}
 #### By Kaysha Besi{1}
 ## Description
 {This webpage includes my background and everything you need to know about me and my programming journey}
 ## Setup/Installation Requirements
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+open on browser: https://kayshabes1.github.io/programming/
 ## Known Bugs
 {not a lot of commits used}
 ## Technologies Used
