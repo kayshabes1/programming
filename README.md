@@ -1,18 +1,18 @@
-# {Programming-Portfolio}
-#### {This is my programming portfolio}, {09/02/2020}
-#### By Kaysha Besi{1}
+# Kaysha Besi Programming-Portfolio
+#### This is my programming portfolio, 09/02/2020
+#### By Kaysha Besi1
 ## Description
-{This webpage includes my background and everything you need to know about me and my programming journey}
+This webpage includes my background and everything you need to know about me and my programming journey
 ## Setup/Installation Requirements
 open on browser: https://kayshabes1.github.io/programming/
 ## Known Bugs
-{not a lot of commits used}
+not a lot of commits used
 ## Technologies Used
-{styled some attributes in html }
+styled some attributes in html 
 ## Support and contact details
-{contact me on kayshabesi@gmail.com}
+contact me on kayshabesi@gmail.com
 ### License
-*{MIT License
+*MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -31,5 +31,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}*
-Copyright (c) {2020} **{Kaysha Besi}**
+Copyright (c) 2020 **Kaysha Besi**
   
