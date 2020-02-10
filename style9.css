@@ -1,0 +1,49 @@
+.welcome-msg{
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+    color: peachpuff;
+    font-weight: bolder;
+
+}
+.sidebar{
+    font-size: small;
+    width: 30%;
+    float: left;
+    border: plum;
+    padding: 20px;
+    background-color: papayawhip;
+}
+.header{
+    font-weight: bold;
+}
+h2{
+    font-style: oblique;
+}
+.hobbies{
+    font-style: italic;
+    font-family: fantasy;
+}
+body{
+    
+    background: url("images/background.jpeg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.sidebar2{
+    float: left;
+    
+}
+
+/*responsive css*/
+
+@media screen and (min-width: 480px) and (max-width:767px) {
+    body{
+        background-image: url("images/background.jpeg");
+    }
+}
+@media screen and (min-width:768px){
+    body{
+        background-image: url("images/background.jpeg");
+    }
